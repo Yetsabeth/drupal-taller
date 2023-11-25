@@ -1,0 +1,17 @@
+uuid: 88579bb6-216c-42b6-b01d-d6d27092c6b6
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Car
+type: car
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

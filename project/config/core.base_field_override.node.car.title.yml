@@ -1,0 +1,18 @@
+uuid: c20f7a6b-957a-4681-9e9d-a8bbcd4d759c
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.car
+id: node.car.title
+field_name: title
+entity_type: node
+bundle: car
+label: 'id carro'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
